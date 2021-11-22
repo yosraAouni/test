@@ -1,0 +1,131 @@
+body {
+    background-color: #D9ACA3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 100px;
+    margin-top: 20px;
+}
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left:800px;
+}
+.navbar {
+    display: flex;
+}
+li{
+    margin: 5%;
+}
+.name{
+    display: inline-flex;
+}
+.name h2 {
+    color: blue;
+    margin-left: 110px;
+    margin-top: 80px;
+
+}
+.name img{
+    margin-left: 300px;
+}
+.yo{
+    margin-top: 30px;
+    margin-left: 2%;
+}
+p:hover{ background-color: brown;
+}
+.prgf{
+    display: inline-flex;
+    margin-left: 10px;
+}
+.d1{
+    border: 3px solid palevioletred;
+    margin: 5%;
+    background-color: palevioletred;
+    padding: 5%;
+}
+.sv h6 {
+    color:#EC7063;
+}
+.sv h4{
+    color: #EC7063;
+}
+h1:hover{
+    background-color: brown;
+}
+h2:hover{
+    background-color: brown;
+}
+h3:hover{
+    background-color: brown;
+}
+h4:hover{
+    background-color: brown;
+}
+h5:hover{
+    background-color: brown;
+}
+h6:hover{
+    background-color: brown;
+}
+#about h3{
+    color: rgb(230, 70, 11);
+    margin: 5%;
+}
+#resume h3{
+    color: rgb(185, 108, 80);
+}
+#resume{
+    border: 5px;
+    margin: 5%;
+    padding: 3%;
+    background-color: rgb(177, 10, 66);
+}
+#work {
+    border: 5px;
+    margin:5%;
+    background-color: rgb(177, 10, 66);
+}
+#about{
+    border: 5px;
+    margin: 10%;
+    background-color: rgb(177, 10, 66);
+}
+.name img{
+    margin-top: 3%;
+}
+#about video{
+    margin-left:2%;
+}
+.tab table{
+    margin-left: 2%;
+}
+.tab{
+    padding-bottom: 5%;
+}
+#contact{
+    border: 5px;
+    margin: 10%;
+    background-color: rgb(177, 10, 66);
+}
+#contact h3{
+    color: rgb(230, 70, 11);
+    margin:2%;
+}
+#contact form{
+margin: 2%;
+}
+label{
+    display:block;
+}
+.mf{
+    display: flex;
+}
+footer{
+    border: 5px;
+    margin: 10%;
+    background-color: rgb(177, 10, 66);
+}
